@@ -1,1 +1,1 @@
-# Bank-loan-analysis
+This bank analytics project aims to provide insights into the overall performance of the bank. By analyzing various aspects of the sales data, we seek to identify trend , make data-driven recommendations and gain a deeper understanding of the bank's performance.The objective was to provide insights into key loan-related metrics and their changes over time, aiding data-driven decision-making, tracking loan portfolio health, and identifying trends for lending strategy.
